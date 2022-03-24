@@ -30,7 +30,7 @@ Note that to get the appearance of causality (e.g. laws of motion), we need not 
 So, to sum up: the idea is that in order to get the 'physical world', we take all the vibes and superimpose them to get the collective vibe. In the process of superimposing, some sharp transitions may appear. These sharp transitions, which require very high-frequency oscillations to define, are what we call the 'physical world'.
 
 
-## How can we understand the difference between the ego and id, or the difference between one conscious mind and another conscious mind, in terms of vibe theory?
+## How can we understand the difference between the ego and id in terms of vibe theory?
 
 Let us think of a 'conscious self' in vibe theory as a combination of two things:
  1. An 'attention agent' that 'tunes in' to only certain components of the collective vibe vector (these are the components that the attention agent is said to 'experience'), and
