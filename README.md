@@ -29,7 +29,27 @@ A multidimensional standing wave would be like a trampoline; a jumper jumps
  on it, and the fabric of the trampoline wobbles up and down in response. If
  many people jump on a trampoline at once, the motion of the fabric of the
  trampoline can look quite complicated. However, the trampoline is (hopefully)
- still oscillating in-place, i.e. it has not moved anywhere. 
+ 
+
+Q: Can the vibrations 'propagate through space'?
+Ans: on their own, the vibrations should be thought of as standing waves,
+ in that they do not 'propogate' anywhere; rather, they happen in a
+ predefined domain, and the motion of the oscillation repeats itself over time.  
+However, within this framework, how can we simulate spatial propagation? Well,
+the appearance of a wave 'propagating' occurs can be described as different
+types of standing waves becoming 'excited' in response to the existence of
+previous standing waves. So I guess, all that's needed to create the concept of
+a 'spatial propagation' from the multidimensional vibe is the concept of
+an 'arrow of time'.  
+In ML terms: imagine a RL agent where actions are taken in response to certain
+ input conditions (i.e. responses are triggered when certain patterns
+ in the collective vibe (as filtered through the agent's perception)
+ are recognized by the agent), and the 'actions' create a change in the
+ collective vibe. This system is sufficient to simulate a phenomenon that
+ we might describe as "a wave propagating through space".
+
+quick thought:  Maybe the full allowed space of actions is 'any change in the collective vibe
+ that satisfies conservation of energy'
  
 
 Q: how do we simulate the 'effort needed to keep something unconscious'?  
@@ -66,25 +86,4 @@ Idea: it would be cool to simulate the process of a negotiation between two
  higher frequencies are less susceptible to 'noise contamination'; i.e.
  verbal/visual communication, by virtue of being higher energy, contains
  far fewer errors than would-be psychic communication). 
-
-
-Q: Can the vibrations 'propagate through space'?
-Ans: on their own, the vibrations should be thought of as standing waves,
- in that they do not 'propogate' anywhere; rather, they happen in a
- predefined domain, and the motion of the oscillation repeats itself over time.  
-However, within this framework, how can we simulate spatial propagation? Well,
-the appearance of a wave 'propagating' occurs can be described as different
-types of standing waves becoming 'excited' in response to the existence of
-previous standing waves. So I guess, all that's needed to create the concept of
-a 'spatial propagation' from the multidimensional vibe is the concept of
-an 'arrow of time'.  
-In ML terms: imagine a RL agent where actions are taken in response to certain
- input conditions (i.e. responses are triggered when certain patterns
- in the collective vibe (as filtered through the agent's perception)
- are recognized by the agent), and the 'actions' create a change in the
- collective vibe. This system is sufficient to simulate a phenomenon that
- we might describe as "a wave propagating through space".
-
-quick thought:  Maybe the full allowed space of actions is 'any change in the collective vibe
- that satisfies conservation of energy'
 
