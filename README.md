@@ -1,6 +1,6 @@
 # vibecheck
 
-Code for exploring vibe theory (https://twitter.com/showerinsights/status/1504959266146324489?s=20&t=oRXx68B7HfdNSh-1xj5IGA)
+Code for exploring vibe theory (inspiration: https://twitter.com/showerinsights/status/1504959266146324489?s=20&t=oRXx68B7HfdNSh-1xj5IGA)
 
 
 # Me working out the theory (scattered notes):
