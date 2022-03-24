@@ -87,3 +87,36 @@ Idea: it would be cool to simulate the process of a negotiation between two
  verbal/visual communication, by virtue of being higher energy, contains
  far fewer errors than would-be psychic communication). 
 
+
+## Q: What is the 'physical world' as per vibe theory?  
+
+Let's postulate that the 'full world' is comprised of many 'selves'. Each
+'self' is a vibe, i.e. a multidimensional standing wave oscillation.
+
+As mentioned above, the 'illusion' of physical space can be produced by a
+combination of the arrow of time as well as 'reaction rules' governing how
+the collective vibe evolves over time. I am postulating that all reaction
+ rules in our known universe satisfy 'conservation of energy'. That is, the
+total energy of the collective vibe is always preserved (I suspect physics
+has an answer already to the relationship between the frequency of an oscillation
+and the energy at a given amplitude, which I could just borrow).
+
+Ok. So, by that logic, if you took a 'full self' (i.e. a full
+ multidimensional vibe) and represented it in terms of its basis oscillations,
+ the 'physical self' would be a very high frequency
+ component of the full self. I say 'high frequency' in part because physical
+ mass is high-energy, so it stands to reason that according to vibe theory,
+ physical mass would be represented as a very high-frequency component in
+ the basis space. And from an evolutionary perspective, higher energy
+ likely means 'less susceptible to contamination from background noise'.
+
+There's another nice connection in thinking of the physical world as the
+'very high frequency' component of the collective vibe: so the physical self
+can be thought of as a 'barrier' or a 'sharp delineation', and we know from
+signal processing 101 that in order to create the appearance of a sharp
+transition in a signal (think: fourier series decomposition), we need
+high-frequency components. And so, by that line of thinking, in order to get the
+ physical world, we start with everyone's vibes and we superimpose them all
+ to create the collective vibe. In the process of superimposing, some sharp
+ transitions may appear. These sharp transitions, which require very
+ high-frequency oscillations, are the 'physical world'.
