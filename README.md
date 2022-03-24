@@ -31,7 +31,7 @@ A multidimensional standing wave would be like a trampoline; a jumper jumps
  trampoline can look quite complicated. However, the trampoline is (hopefully)
  
 
-Q: Can the vibrations 'propagate through space'?
+Q: Can the vibrations 'propagate through space'?  
 Ans: on their own, the vibrations should be thought of as standing waves,
  in that they do not 'propogate' anywhere; rather, they happen in a
  predefined domain, and the motion of the oscillation repeats itself over time.  
