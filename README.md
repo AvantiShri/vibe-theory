@@ -2,55 +2,33 @@
 
 Code for exploring vibe theory (inspiration: https://twitter.com/showerinsights/status/1504959266146324489?s=20&t=oRXx68B7HfdNSh-1xj5IGA)
 
+Scattered thoughts below.
 
-# Me working out the theory (scattered notes):
+## Q: What is a 'vibe'?
 
-quick note: A vibe is a complex n-dimensional vector; entries indicate the amplitude/phase
- for different 'basis vibrations'
+A vibe is a multidimensional standing wave oscillation. To represent a vibe, we perform the mutlidimensional equivalent of a fourier series decomposition on the vibe. Let's say this decomposition results in a complex-valued vector of dimension N, where each entry in the vector denotes the amplitude and phase for a particular 'basis oscillation' in the equivalent-of-a-fourier-series-decomposition (I'm told this is possible but I don't know the specifs; I know it's linked to s-p-d-f orbitals from quantum chemistry and was used in [Tensor Field Networks](https://arxiv.org/abs/1802.08219)).
 
-quick note: when projected onto a single dimension, the vibe can be represented
- as a value in polar co-ordinates with some radius (oscillation strength)
- and angle (oscillation phase)
+A few things to note:
 
-Q: What is a 'vibe'?  
-A: Conceptually, I think of the vibe as a multi-dimensional 'standing wave'.
-'Standing wave' means the wave does not 'propagate' anywhere; it just
- oscillates in-place. E.g. a 1d standing wave would be like
- a string on an instrument; you pluck it, and it vibrates in-place, and you can
- describe the vibration by an amplitude and frequency. If you wanted to describe
- the motion of this 1d vibration in real time, you could use polar co-ordinates,
- where the distance-from-origin would represent the amplitude of the vibration
- (which, in the case of a stringed instrument, decays over time as the
- note fades), and the angle in polar co-ordinates would represent the phase
- of the vibration. In the case of a plucked string, the decaying note would
- (in polar co-ordinates) correspond to the motion of an inward, decaying spiral.
+'Standing wave' means the wave does not 'propagate' anywhere; it just oscillates in-place. E.g. a 1d standing wave would be like a string on an instrument; you pluck it, and it vibrates in-place, and you can describe the vibration by an amplitude and frequency. If you wanted to describe
+the motion of this 1d vibration in real time, you could use polar co-ordinates (i.e. complex numbers), where the distance-from-origin would represent the amplitude of the vibration (which, in the case of a stringed instrument, decays over time as the note fades), and the angle in polar co-ordinates would represent the phase of the vibration. In the case of a plucked string, the decaying note would (in polar co-ordinates) correspond to the motion of an inward, decaying spiral.
 
-A multidimensional standing wave would be like a trampoline; a jumper jumps
- on it, and the fabric of the trampoline wobbles up and down in response. If
- many people jump on a trampoline at once, the motion of the fabric of the
- trampoline can look quite complicated. However, the trampoline is (hopefully)
+A 2d standing wave would (I think) be like a trampoline; a jumper jumps on it, and the fabric of the trampoline wobbles up and down in response. If many people jump on a trampoline at once, the motion of the fabric of the trampoline can look quite complicated. However, the trampoline itself is not shifting around in space (or at least, you hope it does not, for the safety of the people jumping on it!).
+
+A 3d standing wave is...well I'm told they look something like the s-p-d-f electron orbitals from quantum chemistry, and that these shapes are in turn connected to Schroedinger's equation, but that's about it all I know...
+
+Anyway, from a modeling perspective, all that matters is that this 'multidimensional equivalent of a fourier series decomposition' is possible, since we can use this to represent the oscillations of reality as a complex-valued vector.
  
+## Q: What is the 'physical world' as per vibe theory?  
 
-Q: Can the vibrations 'propagate through space'?  
-Ans: on their own, the vibrations should be thought of as standing waves,
- in that they do not 'propogate' anywhere; rather, they happen in a
- predefined domain, and the motion of the oscillation repeats itself over time.  
-However, within this framework, how can we simulate spatial propagation? Well,
-the appearance of a wave 'propagating' occurs can be described as different
-types of standing waves becoming 'excited' in response to the existence of
-previous standing waves. So I guess, all that's needed to create the concept of
-a 'spatial propagation' from the multidimensional vibe is the concept of
-an 'arrow of time'.  
-In ML terms: imagine a RL agent where actions are taken in response to certain
- input conditions (i.e. responses are triggered when certain patterns
- in the collective vibe (as filtered through the agent's perception)
- are recognized by the agent), and the 'actions' create a change in the
- collective vibe. This system is sufficient to simulate a phenomenon that
- we might describe as "a wave propagating through space".
+Let's postulate that the 'full world' is comprised of many vibes all superimposed together. If we were to do an equivalent-of-a-fourier-series decomposition on the 'full world vibe', the 'physical world' would correspond to certain very high frequency components in the vibe.
 
-quick thought:  Maybe the full allowed space of actions is 'any change in the collective vibe
- that satisfies conservation of energy'
- 
+Reasoning: the physical world is all about boundaries and delineations. We know from signal processing 101 that sharp transitions in a signal correspond to high-frequency components in a fourier series decomposition. It thus stands to reason that a signal approximating the properties of the physical world, with so many sharp edges and complicated boundaries, would be comprised of many high-frequency (and thus high energy) components. This is consistent with the fact that, in physics, it is known that (a) higher frequency oscillations take more energy than lower-frequency oscillations of the same amplitude, and (b) the formula E=mc2 describes how mass is highly concentrated energy, which is compatible with the idea that mass is represented as a high-frequency component in reality's vibe. Finally, there is a third (evolutionary) reason for 'physical' boundaries to correspond to high-energy components; the term of 'physical world' connotes the idea of 'agreed upon by everyone'; signal encoded using high-energy frequencies are less likely to be garbled by accidental noise, and are thus more likely to be 'agreed upon by everyone'; therefore, it stands to reason that what we call our objective reality would correspond mainly to high-energy (i.e. high-frequency) signals.
+
+Note that to get the appearance of causality (e.g. laws of motion), we need not only the arrow of time but also 'reaction rules' governing how the vibe changes as a function of its present state. The causal rules can be thought of as the 'first derivative' of the vibe vector w.r.t. time. We can further constrain all the allowed causal rules to satisfy a 'conservation of energy' rule. That is, for some function mapping a given vibe to a scalar value of energy, the first derivative of this function w.r.t. the arrow of time must be zero. I suspect modern physics has an answer already to the relationship between the frequency of an oscillation and the energy at a given amplitude, which I could just borrow.
+
+So, to sum up: the idea is that in order to get the 'physical world', we take all the vibes and superimpose them to get the collective vibe. In the process of superimposing, some sharp transitions may appear. These sharp transitions, which require very high-frequency oscillations to define, are what we call the 'physical world'.
+
 
 Q: how do we simulate the 'effort needed to keep something unconscious'?  
 Ans: a 'split' in which frequencies can be used; 'unconscious' uses
@@ -88,35 +66,17 @@ Idea: it would be cool to simulate the process of a negotiation between two
  far fewer errors than would-be psychic communication). 
 
 
-## Q: What is the 'physical world' as per vibe theory?  
 
-Let's postulate that the 'full world' is comprised of many 'selves'. Each
-'self' is a vibe, i.e. a multidimensional standing wave oscillation.
 
-As mentioned above, the 'illusion' of physical space can be produced by a
-combination of the arrow of time as well as 'reaction rules' governing how
-the collective vibe evolves over time. I am postulating that all reaction
- rules in our known universe satisfy 'conservation of energy'. That is, the
-total energy of the collective vibe is always preserved (I suspect physics
-has an answer already to the relationship between the frequency of an oscillation
-and the energy at a given amplitude, which I could just borrow).
+## Subjective vs. objective reality
 
-Ok. So, by that logic, if you took a 'full self' (i.e. a full
- multidimensional vibe) and represented it in terms of its basis oscillations,
- the 'physical self' would be a very high frequency
- component of the full self. I say 'high frequency' in part because physical
- mass is high-energy, so it stands to reason that according to vibe theory,
- physical mass would be represented as a very high-frequency component in
- the basis space. And from an evolutionary perspective, higher energy
- likely means 'less susceptible to contamination from background noise'.
 
-There's another nice connection in thinking of the physical world as the
-'very high frequency' component of the collective vibe: so the physical self
-can be thought of as a 'barrier' or a 'sharp delineation', and we know from
-signal processing 101 that in order to create the appearance of a sharp
-transition in a signal (think: fourier series decomposition), we need
-high-frequency components. And so, by that line of thinking, in order to get the
- physical world, we start with everyone's vibes and we superimpose them all
- to create the collective vibe. In the process of superimposing, some sharp
- transitions may appear. These sharp transitions, which require very
- high-frequency oscillations, are the 'physical world'.
+
+
+## Scattered notes to self:
+
+
+quick note: when projected onto a single dimension, the vibe can be represented
+ as a value in polar co-ordinates with some radius (oscillation strength)
+ and angle (oscillation phase)
+
