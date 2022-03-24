@@ -6,7 +6,7 @@ Scattered thoughts below.
 
 ## What is a 'vibe'?
 
-A vibe is a multidimensional standing wave oscillation. To represent a vibe, we perform the mutlidimensional equivalent of a fourier series decomposition on the vibe. Let's say this decomposition results in a complex-valued vector of dimension N, where each entry in the vector denotes the amplitude and phase for a particular 'basis oscillation' in the equivalent-of-a-fourier-series-decomposition (I'm told this is possible but I don't know the specifs; I know it's linked to s-p-d-f orbitals from quantum chemistry and was used in [Tensor Field Networks](https://arxiv.org/abs/1802.08219)).
+A vibe is a multidimensional standing wave oscillation. To represent a vibe, we perform the mutlidimensional equivalent of a fourier series decomposition on the vibe. This decomposition results in a complex-valued vector of some (potentially infinite?) dimension, where each entry in the vector denotes the amplitude and phase for a particular 'basis oscillation' (I'm told this type of decomposition is possible but I don't know the specifics; I know it's linked to s-p-d-f orbitals from quantum chemistry and was used in [Tensor Field Networks](https://arxiv.org/abs/1802.08219)).
 
 A few things to note:
 
