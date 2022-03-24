@@ -15,7 +15,7 @@ the motion of this 1d vibration in real time, you could use polar co-ordinates (
 
 A 2d standing wave would (I think) be like a trampoline; a jumper jumps on it, and the fabric of the trampoline wobbles up and down in response. If many people jump on a trampoline at once, the motion of the fabric of the trampoline can look quite complicated. However, the trampoline itself is not shifting around in space (or at least, you hope it does not, for the safety of the people jumping on it!).
 
-A 3d standing wave is...well I'm told they look something like the s-p-d-f electron orbitals from quantum chemistry, and that these shapes are in turn connected to Schroedinger's equation, but that's about it all I know...
+A 3d standing wave is...well I'm told they look something like the s-p-d-f electron orbitals from quantum chemistry, and that these shapes are in turn connected to Schroedinger's equation, but that's about all I know...
 
 Anyway, from a modeling perspective, all that matters is that this 'multidimensional equivalent of a fourier series decomposition' is possible, since we can use this to represent the oscillations of reality as a complex-valued vector.
  
