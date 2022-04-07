@@ -1,6 +1,8 @@
 # vibecheck
 
-Code for exploring vibe theory (inspiration: https://twitter.com/showerinsights/status/1504959266146324489?s=20&t=oRXx68B7HfdNSh-1xj5IGA)
+Youtube video: https://www.youtube.com/watch?v=ZZ3IOmW4CpU&t=1366s
+Original tweet thread that inspired this: https://twitter.com/showerinsights/status/1504959266146324489?s=20&t=oRXx68B7HfdNSh-1xj5IGA)
+Tweet thread with commentary and link to extension ideas: https://twitter.com/avshrikumar/status/1508156479722823680?s=20&t=zNP1wn8V0lZtFVt4gojcXA
 
 Scattered thoughts below.
 
@@ -61,3 +63,4 @@ Idea: "objective reality" consists only of the magnitudes of each element in the
 
 quick note: when projected onto a single dimension, the vibe can be represented as a value in polar co-ordinates with some radius (oscillation strength) and angle (oscillation phase)?
 
+What if the deeper the subconscious mind (corresponding to lower-frequency oscillations), the "coarser" the scale at which the mind integrates information. Maybe this has something to do with the subconscious being good at heuristic thinking? the deeper the subconscious from which an experience originates, the more it represents soemthing like an integral at the scale of *all* of your experience?
