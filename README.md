@@ -1,8 +1,8 @@
 # vibecheck
 
-Youtube video: https://www.youtube.com/watch?v=ZZ3IOmW4CpU&t=1366s
-Original tweet thread that inspired this: https://twitter.com/showerinsights/status/1504959266146324489?s=20&t=oRXx68B7HfdNSh-1xj5IGA)
-Tweet thread with commentary and link to extension ideas: https://twitter.com/avshrikumar/status/1508156479722823680?s=20&t=zNP1wn8V0lZtFVt4gojcXA
+Youtube video: https://www.youtube.com/watch?v=ZZ3IOmW4CpU&t=1366s  
+Original tweet thread that inspired this: https://twitter.com/showerinsights/status/1504959266146324489?s=20&t=oRXx68B7HfdNSh-1xj5IGA)  
+Tweet thread with commentary and link to extension ideas: https://twitter.com/avshrikumar/status/1508156479722823680?s=20&t=zNP1wn8V0lZtFVt4gojcXA  
 
 Scattered thoughts below.
 
